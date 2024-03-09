@@ -2,8 +2,34 @@ button:hover{
     color: aqua;
     background-color: black;
 }
+button:active{
+    color:yellow;
+    background-color: red;
+}
 
 #text:hover{
     color: red;
     background-color: black;
+}
+#text:active{
+    color:cadetblue;
+    background-color: darkblue;
+}
+h1:hover{
+    color: red;
+    background-color: aqua;
+    text-decoration: underline;
+}
+a{
+    color:peachpuff;
+}
+a:hover{
+    color:green;
+}
+a:active{
+    color:aqua;
+}
+
+input[type = "radio"]:checked + label {
+    color: red;
 }
