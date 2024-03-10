@@ -1,0 +1,13 @@
+h1::first-letter{
+    color: Red;
+}
+p::first-line{
+    color: rgb(227, 77, 22);
+    font-weight: bolder;
+    text-decoration: aqua wavy underline;
+    font-family: papyrus;
+}
+h2::selection{
+    color: black;
+    background-color: palegreen;
+}
