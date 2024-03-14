@@ -1,0 +1,15 @@
+div{
+    height: 200px;
+    width: 600px;
+    background-color: red;
+    border: solid;
+    border-style: groove;
+    border-color: aqua;
+    border-width: 10px;
+}
+.firstdiv{
+    border-left-style:groove;
+    border-right-color: plum;
+    border-right-style: outset;
+    border-radius: 20px;
+}
