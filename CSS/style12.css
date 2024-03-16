@@ -31,3 +31,9 @@ button:hover{
     color: red;
     background-color: black;
 }
+.secbut{
+    color: black;
+    height: 80px;
+    width: 200px;
+    font-size: 20px;
+}
