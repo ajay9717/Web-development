@@ -1,0 +1,29 @@
+.outerDiv{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}
+.firstDiv{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: red;
+}
+.secondDiv{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.thirdDiv{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: green;
+}
