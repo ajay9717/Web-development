@@ -6,3 +6,11 @@ span {
     display: block;
     background-color: chartreuse;
 }
+div{
+    height: 200px;
+    width: 400px;
+    background-color: red;
+    margin: 5px;
+    border: 2px solid black;
+    display: inline-block;
+}
